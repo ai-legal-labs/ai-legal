@@ -1,0 +1,33 @@
+{
+  "status": "Prepared draft; not submitted or verified",
+  "reviewed_on": "2026-11-14",
+  "profile": {
+    "display_name": "AI Legal",
+    "legal_entity": "AILL LLC",
+    "trade_name": "AI Legal",
+    "country": "United States",
+    "website": "https://ai.legal",
+    "email": "milos@ai.legal",
+    "description": "AI Legal, a trade name of AILL LLC, publishes independent essays, research and experimental prototypes on artificial intelligence, law, governance and intelligent systems. Edited by Milos Kresojevic. Website content is general information, not legal advice. Research prototypes are not offered for purchase through this website.",
+    "suggested_category_description": "Research and publishing on artificial intelligence and governance; choose the closest accurate category available in Business Hub",
+    "privacy_policy_url_after_deployment": "https://ai.legal/privacy/",
+    "terms_url_after_deployment": "https://ai.legal/terms/",
+    "contact_url_after_deployment": "https://ai.legal/contact/",
+    "logo_path": "assets/logo.svg",
+    "delivery_and_returns": "The website provides free online articles and research descriptions. No products, paid subscriptions, shipping, checkout or return transactions are offered through this site. Do not submit a merchandise feed for these research descriptions."
+  },
+  "before_submission": [
+    "Confirm the legal entity spelling, state of registration, business address and any DBA documentation against official records. Do not publish private or sensitive identifiers on the website.",
+    "Confirm the claimed profile matches the intended AI Legal brand and is not a duplicate listing.",
+    "Review the profile category and actual offerings; no professional licence or legal representation is claimed.",
+    "Deploy the new site and verify that all listed policy and contact URLs are live over HTTPS.",
+    "Complete the business claim using a method offered by Business Hub, then complete required Persona identity and authority verification yourself.",
+    "Review any automatically created agent or enabled features. Do not publish an agent without checking eligibility, instructions and behaviour.",
+    "Do not treat this draft, schema markup or the rebuilt website as proof of OpenAI approval or full legal compliance."
+  ],
+  "official_sources": [
+    "https://help.openai.com/en/articles/20001635-setting-up-your-business-on-chatgpt",
+    "https://openai.com/policies/businesses-in-chatgpt/",
+    "https://openai.com/policies/business-agents-policy/"
+  ]
+}
